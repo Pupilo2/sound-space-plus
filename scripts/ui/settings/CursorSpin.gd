@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\CursorSpin.gd
+# Funcion: Implementa cursor spin dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

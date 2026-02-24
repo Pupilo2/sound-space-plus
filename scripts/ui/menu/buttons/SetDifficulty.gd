@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\SetDifficulty.gd
+# Funcion: Implementa set difficulty dentro de logica interna del proyecto.
 extends OptionButton
 
 var sd = false

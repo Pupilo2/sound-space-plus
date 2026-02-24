@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\Favorite.gd
+# Funcion: Implementa favorite dentro de logica interna del proyecto.
 extends Button
 
 func _pressed():

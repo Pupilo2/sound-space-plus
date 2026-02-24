@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ReplayMode.gd
+# Funcion: Implementa replay mode dentro de logica interna del proyecto.
 extends OptionButton
 
 func upd(value):

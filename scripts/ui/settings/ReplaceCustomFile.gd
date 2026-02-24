@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ReplaceCustomFile.gd
+# Funcion: Implementa replace custom file dentro de logica interna del proyecto.
 extends Button
 var dir:Directory = Directory.new()
 

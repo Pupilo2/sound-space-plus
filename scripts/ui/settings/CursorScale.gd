@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\CursorScale.gd
+# Funcion: Implementa cursor scale dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

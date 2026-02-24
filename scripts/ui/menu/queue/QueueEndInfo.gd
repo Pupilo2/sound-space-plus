@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\queue\QueueEndInfo.gd
+# Funcion: Implementa queue end info dentro de logica interna del proyecto.
 extends Control
 
 func comma_sep(number):

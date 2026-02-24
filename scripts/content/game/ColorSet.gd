@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\ColorSet.gd
+# Funcion: Implementa color set dentro de logica interna del proyecto.
 extends Resource
 class_name ColorSet
 

@@ -1,3 +1,5 @@
+# Doc: scripts\content\resources\ResourceQueue.gd
+# Funcion: Implementa resource queue dentro de logica interna del proyecto.
 extends Node
 #class_name ResourceQueue
 

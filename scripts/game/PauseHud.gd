@@ -1,3 +1,5 @@
+# Doc: scripts\game\PauseHud.gd
+# Funcion: Implementa pause hud dentro de logica interna del proyecto.
 extends Control
 
 onready var pbar = $ProgressBar

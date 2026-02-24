@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ModHardRock.gd
+# Funcion: Implementa mod hard rock dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

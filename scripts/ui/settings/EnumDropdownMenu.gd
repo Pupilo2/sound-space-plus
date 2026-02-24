@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\EnumDropdownMenu.gd
+# Funcion: Implementa enum dropdown menu dentro de logica interna del proyecto.
 extends MenuButton
 
 export(Array,String) var options = []

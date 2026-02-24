@@ -1,3 +1,5 @@
+# Doc: assets\notefx\miss\miss.gd
+# Funcion: Implementa miss dentro de logica interna del proyecto.
 extends Spatial
 
 var active:bool = false

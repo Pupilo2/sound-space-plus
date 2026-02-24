@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\TrailTime.gd
+# Funcion: Implementa trail time dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

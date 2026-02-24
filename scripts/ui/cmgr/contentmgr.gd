@@ -1,3 +1,5 @@
+# Doc: scripts\ui\cmgr\contentmgr.gd
+# Funcion: Implementa contentmgr dentro de logica interna del proyecto.
 extends Node
 
 func set_rpc_status(state:String):

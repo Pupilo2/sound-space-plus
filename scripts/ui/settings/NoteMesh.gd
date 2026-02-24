@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\NoteMesh.gd
+# Funcion: Implementa note mesh dentro de logica interna del proyecto.
 extends MenuButton
 
 var meshes:Array = []

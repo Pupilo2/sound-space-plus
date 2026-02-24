@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\SuddenDeath.gd
+# Funcion: Implementa sudden death dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

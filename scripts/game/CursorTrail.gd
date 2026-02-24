@@ -1,3 +1,5 @@
+# Doc: scripts\game\CursorTrail.gd
+# Funcion: Implementa cursor trail dentro de logica interna del proyecto.
 extends Spatial
 
 signal cache_me

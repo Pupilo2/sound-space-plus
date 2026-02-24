@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\MusicOffset.gd
+# Funcion: Implementa music offset dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

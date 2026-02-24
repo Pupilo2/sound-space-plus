@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\example\lobby\game.gd
+# Funcion: Implementa game dentro de logica interna del proyecto.
 extends Control
 
 var game_state_ := GameState.new()

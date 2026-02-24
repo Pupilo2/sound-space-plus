@@ -1,3 +1,5 @@
+# Doc: assets\worlds\seethrough.gd
+# Funcion: Implementa seethrough dentro de logica interna del proyecto.
 extends Spatial
 
 func _ready():

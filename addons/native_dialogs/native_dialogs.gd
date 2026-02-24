@@ -1,3 +1,5 @@
+# Doc: addons\native_dialogs\native_dialogs.gd
+# Funcion: Implementa native dialogs dentro de logica interna del proyecto.
 const Message = preload("./bin/native_dialog_message.gdns")
 const Notify = preload("./bin/native_dialog_notify.gdns")
 const OpenFile = preload("./bin/native_dialog_open_file.gdns")

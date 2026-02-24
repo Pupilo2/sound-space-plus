@@ -1,3 +1,5 @@
+# Doc: scenes\errors\onboardingload.gd
+# Funcion: Implementa onboardingload dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

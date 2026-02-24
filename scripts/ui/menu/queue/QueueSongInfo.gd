@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\queue\QueueSongInfo.gd
+# Funcion: Implementa queue song info dentro de logica interna del proyecto.
 extends Control
 
 func comma_sep(number):

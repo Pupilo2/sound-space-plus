@@ -1,3 +1,5 @@
+# Doc: scripts\game\CircularProgress2.gd
+# Funcion: Implementa circular progress2 dentro de logica interna del proyecto.
 extends Control
 
 onready var spin = $Spin

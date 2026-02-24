@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SettingsColorPicker.gd
+# Funcion: Implementa settings color picker dentro de logica interna del proyecto.
 extends ColorPickerButton
 
 export(String) var target

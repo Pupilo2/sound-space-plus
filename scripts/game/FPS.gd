@@ -1,3 +1,5 @@
+# Doc: scripts\game\FPS.gd
+# Funcion: Implementa fps dentro de logica interna del proyecto.
 extends Label
 
 func _process(delta):

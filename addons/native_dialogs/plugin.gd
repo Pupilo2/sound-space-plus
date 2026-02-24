@@ -1,3 +1,5 @@
+# Doc: addons\native_dialogs\plugin.gd
+# Funcion: Implementa plugin dentro de logica interna del proyecto.
 tool
 extends EditorPlugin
 

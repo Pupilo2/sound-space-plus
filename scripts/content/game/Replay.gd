@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\Replay.gd
+# Funcion: Implementa replay dentro de logica interna del proyecto.
 extends Resource
 class_name Replay
 

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SettingsGroup.gd
+# Funcion: Implementa settings group dentro de logica interna del proyecto.
 extends VBoxContainer
 
 export(bool) var start_open = false

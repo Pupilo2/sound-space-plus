@@ -1,3 +1,5 @@
+# Doc: assets\notefx\score\score.gd
+# Funcion: Implementa score dentro de logica interna del proyecto.
 extends Spatial
 
 signal cache_me

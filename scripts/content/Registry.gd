@@ -1,3 +1,5 @@
+# Doc: scripts\content\Registry.gd
+# Funcion: Implementa registry dentro de logica interna del proyecto.
 extends Resource
 class_name Registry
 

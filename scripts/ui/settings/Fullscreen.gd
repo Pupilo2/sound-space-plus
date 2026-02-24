@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\Fullscreen.gd
+# Funcion: Implementa fullscreen dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

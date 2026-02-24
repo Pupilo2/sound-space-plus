@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\TrailDetail.gd
+# Funcion: Implementa trail detail dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

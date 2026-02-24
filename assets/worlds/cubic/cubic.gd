@@ -1,3 +1,5 @@
+# Doc: assets\worlds\cubic\cubic.gd
+# Funcion: Implementa cubic dentro de logica interna del proyecto.
 extends Spatial
 
 #export(SpatialMaterial) var mat

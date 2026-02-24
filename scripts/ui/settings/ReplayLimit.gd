@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ReplayLimit.gd
+# Funcion: Implementa replay limit dentro de logica interna del proyecto.
 extends OptionButton
 
 func upd(value):

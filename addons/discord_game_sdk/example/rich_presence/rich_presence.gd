@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\example\rich_presence\rich_presence.gd
+# Funcion: Implementa rich presence dentro de logica interna del proyecto.
 extends Node2D
 
 func _ready():

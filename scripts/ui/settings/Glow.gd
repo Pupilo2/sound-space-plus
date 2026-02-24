@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\Glow.gd
+# Funcion: Implementa glow dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

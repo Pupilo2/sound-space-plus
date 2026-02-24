@@ -1,3 +1,5 @@
+# Doc: scripts\ui\StringPrompt2D.gd
+# Funcion: Implementa string prompt2 d dentro de logica interna del proyecto.
 extends ColorRect
 class_name StringPrompt2D
 

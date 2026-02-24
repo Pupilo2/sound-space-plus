@@ -1,3 +1,5 @@
+# Doc: scripts\game\Spinner.gd
+# Funcion: Implementa spinner dentro de logica interna del proyecto.
 extends MeshInstance
 
 export(float) var spin_speed = 3.14/7.5

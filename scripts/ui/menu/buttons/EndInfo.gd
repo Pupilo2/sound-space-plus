@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\EndInfo.gd
+# Funcion: Implementa end info dentro de logica interna del proyecto.
 extends Control
 
 func comma_sep(number):

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\PlayAutoSwitch.gd
+# Funcion: Implementa play auto switch dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

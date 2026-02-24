@@ -1,3 +1,5 @@
+# Doc: scripts\avatar\AvatarPointer.gd
+# Funcion: Implementa avatar pointer dentro de logica interna del proyecto.
 extends Spatial
 
 func _process(delta):

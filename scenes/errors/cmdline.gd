@@ -1,3 +1,5 @@
+# Doc: scenes\errors\cmdline.gd
+# Funcion: Implementa cmdline dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

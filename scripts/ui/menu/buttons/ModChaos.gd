@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ModChaos.gd
+# Funcion: Implementa mod chaos dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

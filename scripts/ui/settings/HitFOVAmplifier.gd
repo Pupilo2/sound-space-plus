@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\HitFOVAmplifier.gd
+# Funcion: Implementa hit fovamplifier dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\avatarEditor\AvatarEditor.gd
+# Funcion: Implementa avatar editor dentro de logica interna del proyecto.
 extends Control
 
 func _ready():

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ModEarthquake.gd
+# Funcion: Implementa mod earthquake dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

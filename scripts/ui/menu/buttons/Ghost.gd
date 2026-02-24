@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\Ghost.gd
+# Funcion: Implementa ghost dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

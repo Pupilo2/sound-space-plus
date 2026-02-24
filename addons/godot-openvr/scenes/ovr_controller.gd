@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\scenes\ovr_controller.gd
+# Funcion: Implementa ovr controller dentro de logica interna del proyecto.
 extends ARVRController
 
 signal controller_activated(controller)

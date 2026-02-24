@@ -1,3 +1,5 @@
+# Doc: scripts\game\FlashlightModifier.gd
+# Funcion: Implementa flashlight modifier dentro de logica interna del proyecto.
 extends Spatial
 
 export var lspd = 0.025 # lerp speed

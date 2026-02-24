@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\ResultsHolder.gd
+# Funcion: Implementa results holder dentro de logica interna del proyecto.
 extends HBoxContainer
 
 var centered:bool = false

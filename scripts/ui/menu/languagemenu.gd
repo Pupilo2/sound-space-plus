@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\languagemenu.gd
+# Funcion: Implementa languagemenu dentro de logica interna del proyecto.
 extends ColorRect
 
 onready var languageselect = $ChangeLanguage/SelectLanguageWindow/languageselector

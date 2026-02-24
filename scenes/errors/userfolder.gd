@@ -1,3 +1,5 @@
+# Doc: scenes\errors\userfolder.gd
+# Funcion: Implementa userfolder dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

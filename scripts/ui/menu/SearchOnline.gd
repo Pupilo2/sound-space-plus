@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\SearchOnline.gd
+# Funcion: Implementa search online dentro de logica interna del proyecto.
 extends CheckBox
 
 export(String) var target

@@ -1,3 +1,5 @@
+# Doc: assets\worlds\reality_dismissed\reality_dismissed.gd
+# Funcion: Implementa reality dismissed dentro de logica interna del proyecto.
 extends Spatial
 
 func _process(delta):

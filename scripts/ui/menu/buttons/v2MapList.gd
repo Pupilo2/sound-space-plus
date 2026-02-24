@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\v2MapList.gd
+# Funcion: Implementa v2 map list dentro de logica interna del proyecto.
 extends GridContainer
 
 signal search_updated

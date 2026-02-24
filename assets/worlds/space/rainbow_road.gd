@@ -1,3 +1,5 @@
+# Doc: assets\worlds\space\rainbow_road.gd
+# Funcion: Implementa rainbow road dentro de logica interna del proyecto.
 extends MeshInstance
 
 func _process(delta):

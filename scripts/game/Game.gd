@@ -1,3 +1,5 @@
+# Doc: scripts\game\Game.gd
+# Funcion: Implementa game dentro de logica interna del proyecto.
 extends Spatial
 class_name SongPlayerManager
 

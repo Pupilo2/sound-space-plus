@@ -1,3 +1,5 @@
+# Doc: assets\worlds\neon_tunnel\ring.gd
+# Funcion: Implementa ring dentro de logica interna del proyecto.
 extends MeshInstance
 
 func _process(delta):

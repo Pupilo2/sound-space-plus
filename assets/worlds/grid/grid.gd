@@ -1,3 +1,5 @@
+# Doc: assets\worlds\grid\grid.gd
+# Funcion: Implementa grid dentro de logica interna del proyecto.
 extends Spatial
 
 var rate:float = 6

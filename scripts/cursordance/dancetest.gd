@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\dancetest.gd
+# Funcion: Implementa dancetest dentro de logica interna del proyecto.
 extends Control
 
 var song:Song = Rhythia.selected_song

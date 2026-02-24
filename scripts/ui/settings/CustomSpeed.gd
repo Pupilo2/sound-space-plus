@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\CustomSpeed.gd
+# Funcion: Implementa custom speed dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

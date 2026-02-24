@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\WarningBar.gd
+# Funcion: Implementa warning bar dentro de logica interna del proyecto.
 extends ColorRect
 
 var entry:float = 0

@@ -1,3 +1,5 @@
+# Doc: assets\notefx\shards\shards.gd
+# Funcion: Implementa shards dentro de logica interna del proyecto.
 extends Spatial
 
 var active:bool = false

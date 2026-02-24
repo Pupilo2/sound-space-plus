@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\RenderScale.gd
+# Funcion: Implementa render scale dentro de logica interna del proyecto.
 extends SpinBox
 
 func _on_Scale_value_changed(value):

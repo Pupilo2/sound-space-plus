@@ -1,3 +1,5 @@
+# Doc: debug\console\window_title.gd
+# Funcion: Implementa window title dentro de logica interna del proyecto.
 extends Label
 
 var lifted = false

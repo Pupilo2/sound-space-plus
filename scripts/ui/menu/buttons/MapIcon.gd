@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\MapIcon.gd
+# Funcion: Implementa map icon dentro de logica interna del proyecto.
 extends Panel
 
 var song:Song

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ArchiveConvert.gd
+# Funcion: Implementa archive convert dentro de logica interna del proyecto.
 extends Button
 
 var dir:Directory = Directory.new()

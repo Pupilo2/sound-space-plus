@@ -1,3 +1,5 @@
+# Doc: vr\FakeVRHead.gd
+# Funcion: Implementa fake vrhead dentro de interaccion y flujo para modo VR.
 extends Camera
 
 var yaw = 0

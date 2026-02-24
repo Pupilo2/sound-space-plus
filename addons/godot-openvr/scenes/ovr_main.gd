@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\scenes\ovr_main.gd
+# Funcion: Implementa ovr main dentro de logica interna del proyecto.
 extends ARVROrigin
 
 # Add this script to your ARVROrigin node and it will initialise OpenVR for you automatically.

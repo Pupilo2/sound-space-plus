@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\BackgroundWorld.gd
+# Funcion: Implementa background world dentro de logica interna del proyecto.
 extends Resource
 class_name BackgroundWorld
 

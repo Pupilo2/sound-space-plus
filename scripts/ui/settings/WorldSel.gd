@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\WorldSel.gd
+# Funcion: Implementa world sel dentro de logica interna del proyecto.
 extends MenuButton
 
 var worlds:Array = []

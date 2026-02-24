@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\queue\queue_pass.gd
+# Funcion: Implementa queue pass dentro de logica interna del proyecto.
 extends Node
 
 var leaving:bool = false

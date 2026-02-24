@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\fov.gd
+# Funcion: Implementa fov dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

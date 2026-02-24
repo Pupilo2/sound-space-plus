@@ -1,3 +1,5 @@
+# Doc: scripts\ui\cmgr\AddSong.gd
+# Funcion: Implementa add song dentro de logica interna del proyecto.
 extends Panel
 
 var dir:Directory = Directory.new()

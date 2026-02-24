@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ContentMgrAddMap.gd
+# Funcion: Implementa content mgr add map dentro de logica interna del proyecto.
 extends Button
 
 var has_been_pressed:bool = false

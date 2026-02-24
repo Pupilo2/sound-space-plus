@@ -1,3 +1,5 @@
+# Doc: LSPatronList.gd
+# Funcion: Implementa lspatron list dentro de script auxiliar del proyecto.
 extends ReferenceRect
 
 func _ready():

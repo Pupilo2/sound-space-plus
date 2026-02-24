@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ReplayDir.gd
+# Funcion: Implementa replay dir dentro de logica interna del proyecto.
 extends Button
 
 func _pressed():

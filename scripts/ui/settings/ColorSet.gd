@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ColorSet.gd
+# Funcion: Implementa color set dentro de logica interna del proyecto.
 extends GridContainer
 
 onready var base = $Color

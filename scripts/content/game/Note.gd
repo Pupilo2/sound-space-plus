@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\Note.gd
+# Funcion: Implementa note dentro de logica interna del proyecto.
 class_name Note
 extends Spatial
 

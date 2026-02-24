@@ -1,3 +1,5 @@
+# Doc: scenes\errors\songload.gd
+# Funcion: Implementa songload dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

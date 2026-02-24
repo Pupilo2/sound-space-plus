@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\NoFail.gd
+# Funcion: Implementa no fail dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

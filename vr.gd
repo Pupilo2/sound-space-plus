@@ -1,3 +1,5 @@
+# Doc: vr.gd
+# Funcion: Implementa vr dentro de script auxiliar del proyecto.
 extends Spatial
 
 func _ready():

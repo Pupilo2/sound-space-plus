@@ -1,3 +1,5 @@
+# Doc: scripts\game\TextShake.gd
+# Funcion: Implementa text shake dentro de logica interna del proyecto.
 extends Control
 
 var rng = RandomNumberGenerator.new()

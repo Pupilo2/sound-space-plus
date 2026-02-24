@@ -1,3 +1,5 @@
+# Doc: assets\notefx\ripple\ripple.gd
+# Funcion: Implementa ripple dentro de logica interna del proyecto.
 extends Spatial
 
 var active:bool = false

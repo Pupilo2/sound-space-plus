@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\VSync.gd
+# Funcion: Implementa vsync dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

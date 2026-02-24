@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\NoteScale.gd
+# Funcion: Implementa note scale dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

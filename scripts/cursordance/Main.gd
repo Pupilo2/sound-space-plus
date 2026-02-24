@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Main.gd
+# Funcion: Implementa main dentro de logica interna del proyecto.
 extends Panel
 
 var notes:PoolVector3Array = PoolVector3Array()

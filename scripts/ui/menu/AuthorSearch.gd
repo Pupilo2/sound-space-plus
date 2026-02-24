@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\AuthorSearch.gd
+# Funcion: Implementa author search dentro de logica interna del proyecto.
 extends LineEdit
 
 func update_txt(_v=null):

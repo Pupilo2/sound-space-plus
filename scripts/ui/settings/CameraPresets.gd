@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\CameraPresets.gd
+# Funcion: Implementa camera presets dentro de logica interna del proyecto.
 extends MenuButton
 
 var presets = [

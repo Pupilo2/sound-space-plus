@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\plugin.gd
+# Funcion: Implementa plugin dentro de logica interna del proyecto.
 tool
 extends EditorPlugin
 

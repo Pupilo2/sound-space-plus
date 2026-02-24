@@ -1,3 +1,5 @@
+# Doc: scripts\game\cam_handler.gd
+# Funcion: Implementa cam handler dentro de logica interna del proyecto.
 extends Spatial
 
 var state = (Rhythia.replaying and Rhythia.alt_cam)

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\MapSearch.gd
+# Funcion: Implementa map search dentro de logica interna del proyecto.
 extends LineEdit
 
 func update_txt(_v=null):

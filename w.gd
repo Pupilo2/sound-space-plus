@@ -1,3 +1,5 @@
+# Doc: w.gd
+# Funcion: Implementa w dentro de script auxiliar del proyecto.
 extends Control
 
 var fading:bool = false

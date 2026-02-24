@@ -1,3 +1,5 @@
+# Doc: scripts\content\resources\gdunzip.gd
+# Funcion: Implementa gdunzip dentro de logica interna del proyecto.
 # MIT License
 # 
 # Copyright (c) 2018 Jelle Hermsen

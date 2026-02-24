@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\PatreonCredits.gd
+# Funcion: Implementa patreon credits dentro de logica interna del proyecto.
 extends Control
 
 func _ready():

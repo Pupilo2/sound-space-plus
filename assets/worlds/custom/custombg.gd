@@ -1,3 +1,5 @@
+# Doc: assets\worlds\custom\custombg.gd
+# Funcion: Implementa custombg dentro de logica interna del proyecto.
 extends Spatial
 
 func _ready():

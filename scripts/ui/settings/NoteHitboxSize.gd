@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\NoteHitboxSize.gd
+# Funcion: Implementa note hitbox size dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

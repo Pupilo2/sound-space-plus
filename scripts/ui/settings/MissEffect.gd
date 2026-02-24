@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\MissEffect.gd
+# Funcion: Implementa miss effect dentro de logica interna del proyecto.
 extends MenuButton
 
 var effects:Array = []

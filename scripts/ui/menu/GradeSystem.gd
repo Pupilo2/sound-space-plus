@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\GradeSystem.gd
+# Funcion: Implementa grade system dentro de logica interna del proyecto.
 extends MenuButton
 
 var meshes:Array = []

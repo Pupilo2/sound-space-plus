@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\MapIncludeBroken.gd
+# Funcion: Implementa map include broken dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

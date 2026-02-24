@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\NoteSpin.gd
+# Funcion: Implementa note spin dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

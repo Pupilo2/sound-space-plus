@@ -1,3 +1,5 @@
+# Doc: scripts\Intro.gd
+# Funcion: Implementa intro dentro de estado global e inicializacion principal del juego.
 extends Spatial
 
 var running = false

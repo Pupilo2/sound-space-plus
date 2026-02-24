@@ -1,3 +1,5 @@
+# Doc: scripts\Globals.gd
+# Funcion: Implementa globals dentro de estado global e inicializacion principal del juego.
 extends Node
 
 onready var rootg = get_tree().root

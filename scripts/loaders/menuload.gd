@@ -1,3 +1,5 @@
+# Doc: scripts\loaders\menuload.gd
+# Funcion: Implementa menuload dentro de logica interna del proyecto.
 extends Node
 
 var leaving:bool = false

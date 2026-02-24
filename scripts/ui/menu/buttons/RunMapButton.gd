@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\RunMapButton.gd
+# Funcion: Implementa run map button dentro de logica interna del proyecto.
 extends Button
 
 signal lock_type

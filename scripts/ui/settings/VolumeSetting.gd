@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\VolumeSetting.gd
+# Funcion: Implementa volume setting dentro de logica interna del proyecto.
 extends Control
 
 export(String) var target_bus

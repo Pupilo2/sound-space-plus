@@ -1,3 +1,5 @@
+# Doc: scripts\game\CameraControl.gd
+# Funcion: Implementa camera control dentro de logica interna del proyecto.
 # Licensed under the MIT License.
 # Copyright (c) 2018-2020 Jaccomo Lorenz (Maujoe)
 

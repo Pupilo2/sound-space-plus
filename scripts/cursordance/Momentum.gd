@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Momentum.gd
+# Funcion: Implementa momentum dentro de logica interna del proyecto.
 extends DanceMover
 class_name MomentumDanceMover # Momentum
 

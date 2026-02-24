@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\Profiles.gd
+# Funcion: Implementa profiles dentro de logica interna del proyecto.
 extends MenuButton
 
 var profiles

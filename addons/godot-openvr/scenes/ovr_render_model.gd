@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\scenes\ovr_render_model.gd
+# Funcion: Implementa ovr render model dentro de logica interna del proyecto.
 extends MeshInstance
 
 var ovr_render_model

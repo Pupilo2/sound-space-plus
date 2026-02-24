@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\scenes\ovr_shader_cache.gd
+# Funcion: Implementa ovr shader cache dentro de logica interna del proyecto.
 extends Spatial
 
 var countdown = 2

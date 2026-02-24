@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\HpModel.gd
+# Funcion: Implementa hp model dentro de logica interna del proyecto.
 extends MenuButton
 
 var meshes:Array = []

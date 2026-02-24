@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\MusicVolumeSetter.gd
+# Funcion: Implementa music volume setter dentro de logica interna del proyecto.
 extends AudioStreamPlayer
 
 var target_volume_db = Rhythia.music_volume_db

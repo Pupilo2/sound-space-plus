@@ -1,3 +1,5 @@
+# Doc: scripts\loaders\contentmgrload.gd
+# Funcion: Implementa contentmgrload dentro de logica interna del proyecto.
 extends Node
 
 var leaving:bool = false

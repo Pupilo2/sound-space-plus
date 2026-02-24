@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\Sensitivity.gd
+# Funcion: Implementa sensitivity dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

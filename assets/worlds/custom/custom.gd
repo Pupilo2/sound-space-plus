@@ -1,3 +1,5 @@
+# Doc: assets\worlds\custom\custom.gd
+# Funcion: Implementa custom dentro de logica interna del proyecto.
 extends Spatial
 
 var colors:Array = Rhythia.selected_colorset.colors

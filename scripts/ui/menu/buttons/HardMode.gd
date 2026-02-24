@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\HardMode.gd
+# Funcion: Implementa hard mode dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

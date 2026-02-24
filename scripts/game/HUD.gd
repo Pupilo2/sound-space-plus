@@ -1,3 +1,5 @@
+# Doc: scripts\game\HUD.gd
+# Funcion: Implementa hud dentro de logica interna del proyecto.
 extends Spatial
 
 

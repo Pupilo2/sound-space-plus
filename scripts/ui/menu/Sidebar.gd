@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\Sidebar.gd
+# Funcion: Implementa sidebar dentro de logica interna del proyecto.
 extends Panel
 
 var open:bool = false

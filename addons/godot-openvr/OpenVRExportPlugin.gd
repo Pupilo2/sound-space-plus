@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\OpenVRExportPlugin.gd
+# Funcion: Implementa open vrexport plugin dentro de logica interna del proyecto.
 tool
 extends EditorExportPlugin
 

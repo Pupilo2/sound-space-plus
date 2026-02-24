@@ -1,3 +1,5 @@
+# Doc: vr\VRPlayer.gd
+# Funcion: Implementa vrplayer dentro de interaccion y flujo para modo VR.
 extends Spatial
 class_name VRPlayer
 

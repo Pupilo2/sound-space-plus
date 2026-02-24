@@ -1,3 +1,5 @@
+# Doc: scripts\init.gd
+# Funcion: Implementa init dentro de estado global e inicializacion principal del juego.
 extends Node
 
 var thread:Thread = Thread.new()

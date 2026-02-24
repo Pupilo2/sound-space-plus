@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\Convert.gd
+# Funcion: Implementa convert dentro de logica interna del proyecto.
 extends Button
 
 var debounce = false

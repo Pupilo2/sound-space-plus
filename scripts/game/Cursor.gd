@@ -1,3 +1,5 @@
+# Doc: scripts\game\Cursor.gd
+# Funcion: Implementa cursor dentro de logica interna del proyecto.
 extends Spatial
 
 var rpos:Vector2 = Vector2(transform.origin.x,-transform.origin.y)

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\rainbow.gd
+# Funcion: Implementa rainbow dentro de logica interna del proyecto.
 extends Control
 
 export(float) var saturation = 0.65

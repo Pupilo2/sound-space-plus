@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ExportTxt.gd
+# Funcion: Implementa export txt dentro de logica interna del proyecto.
 extends Button
 
 var debounce = false

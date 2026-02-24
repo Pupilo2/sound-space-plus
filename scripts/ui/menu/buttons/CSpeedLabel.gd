@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\CSpeedLabel.gd
+# Funcion: Implementa cspeed label dentro de logica interna del proyecto.
 extends Label
 
 func upd():

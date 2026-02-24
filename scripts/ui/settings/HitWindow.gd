@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\HitWindow.gd
+# Funcion: Implementa hit window dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

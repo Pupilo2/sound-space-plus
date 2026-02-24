@@ -1,3 +1,5 @@
+# Doc: scripts\content\resources\ImageLoader.gd
+# Funcion: Implementa image loader dentro de logica interna del proyecto.
 
 #GDScriptAudioImport v0.1
 

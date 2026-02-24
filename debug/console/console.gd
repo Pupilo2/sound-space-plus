@@ -1,3 +1,5 @@
+# Doc: debug\console\console.gd
+# Funcion: Implementa console dentro de logica interna del proyecto.
 extends Panel
 
 enum PRINT_TYPE {INFO,WARN,ERROR,RUN}

@@ -1,3 +1,5 @@
+# Doc: scenes\errors\menuload.gd
+# Funcion: Implementa menuload dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

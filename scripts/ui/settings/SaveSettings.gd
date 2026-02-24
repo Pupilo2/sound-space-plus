@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SaveSettings.gd
+# Funcion: Implementa save settings dentro de logica interna del proyecto.
 extends Button
 
 func _pressed():

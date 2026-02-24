@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\CursorTrailType.gd
+# Funcion: Implementa cursor trail type dentro de logica interna del proyecto.
 extends MenuButton
 
 var presets = [

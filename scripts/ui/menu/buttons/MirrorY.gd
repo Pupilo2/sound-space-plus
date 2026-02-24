@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\MirrorY.gd
+# Funcion: Implementa mirror y dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

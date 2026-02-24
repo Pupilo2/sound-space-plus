@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\EasyMode.gd
+# Funcion: Implementa easy mode dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

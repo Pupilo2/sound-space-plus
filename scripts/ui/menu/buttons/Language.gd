@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\Language.gd
+# Funcion: Implementa language dentro de logica interna del proyecto.
 extends OptionButton
 
 

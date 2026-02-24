@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\EdgeBuffer.gd
+# Funcion: Implementa edge buffer dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

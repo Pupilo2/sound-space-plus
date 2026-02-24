@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\MapActions.gd
+# Funcion: Implementa map actions dentro de logica interna del proyecto.
 extends MenuButton
 
 var sd = false

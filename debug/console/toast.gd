@@ -1,3 +1,5 @@
+# Doc: debug\console\toast.gd
+# Funcion: Implementa toast dentro de logica interna del proyecto.
 extends Node
 
 var time:float = INF

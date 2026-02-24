@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Cursor.gd
+# Funcion: Implementa cursor dentro de logica interna del proyecto.
 extends Node2D
 
 export(Font) var font

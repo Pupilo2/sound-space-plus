@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Directional.gd
+# Funcion: Implementa directional dentro de logica interna del proyecto.
 extends DanceMover
 class_name DirectionalDanceMover
 

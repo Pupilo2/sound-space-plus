@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\DownloadScreen.gd
+# Funcion: Implementa download screen dentro de logica interna del proyecto.
 extends ColorRect
 
 var target:bool = false

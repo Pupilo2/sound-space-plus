@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\NoteEffect.gd
+# Funcion: Implementa note effect dentro de logica interna del proyecto.
 extends Resource
 class_name NoteEffect
 

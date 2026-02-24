@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\diffSort.gd
+# Funcion: Implementa diff sort dentro de logica interna del proyecto.
 extends VBoxContainer
 
 onready var G = get_parent().get_node("MapRegistry/S/VBoxContainer")

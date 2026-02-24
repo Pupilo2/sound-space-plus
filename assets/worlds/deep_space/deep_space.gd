@@ -1,3 +1,5 @@
+# Doc: assets\worlds\deep_space\deep_space.gd
+# Funcion: Implementa deep space dentro de logica interna del proyecto.
 extends Node
 
 

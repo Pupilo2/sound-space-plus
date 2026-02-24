@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\SongInfoScreen.gd
+# Funcion: Implementa song info screen dentro de logica interna del proyecto.
 extends Control
 
 func comma_sep(number):

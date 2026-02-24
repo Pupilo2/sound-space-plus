@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\SpeedMod.gd
+# Funcion: Implementa speed mod dentro de logica interna del proyecto.
 extends ReferenceRect
 
 onready var mmm:Button = $C/MMM

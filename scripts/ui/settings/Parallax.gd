@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\Parallax.gd
+# Funcion: Implementa parallax dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

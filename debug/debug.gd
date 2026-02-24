@@ -1,3 +1,5 @@
+# Doc: debug\debug.gd
+# Funcion: Implementa debug dentro de infraestructura general de depuracion.
 extends Node
 
 enum PRINT_TYPE {INFO,WARN,ERROR,RUN}

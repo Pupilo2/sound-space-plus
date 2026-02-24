@@ -1,3 +1,5 @@
+# Doc: scripts\game\StreakProgress.gd
+# Funcion: Implementa streak progress dentro de logica interna del proyecto.
 extends Control
 
 onready var parts:Array = [$Part]

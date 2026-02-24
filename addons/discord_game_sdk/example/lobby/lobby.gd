@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\example\lobby\lobby.gd
+# Funcion: Implementa lobby dentro de logica interna del proyecto.
 extends Control
 
 var lobby_id_

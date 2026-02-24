@@ -1,3 +1,5 @@
+# Doc: scripts\game\Friend.gd
+# Funcion: Implementa friend dentro de logica interna del proyecto.
 extends MeshInstance
 
 var failed = false

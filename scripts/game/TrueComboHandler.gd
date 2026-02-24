@@ -1,3 +1,5 @@
+# Doc: scripts\game\TrueComboHandler.gd
+# Funcion: Implementa true combo handler dentro de logica interna del proyecto.
 extends Label
 
 func _ready():

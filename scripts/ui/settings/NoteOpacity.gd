@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\NoteOpacity.gd
+# Funcion: Implementa note opacity dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

@@ -1,3 +1,5 @@
+# Doc: vr\MenuPointer.gd
+# Funcion: Implementa menu pointer dentro de interaccion y flujo para modo VR.
 extends Area
 
 onready var viewport:Viewport = get_node("Viewport")

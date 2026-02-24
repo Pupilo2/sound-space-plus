@@ -1,3 +1,5 @@
+# Doc: scripts\game\NoteManager.gd
+# Funcion: Implementa note manager dentro de logica interna del proyecto.
 extends Spatial
 class_name NoteManager
 

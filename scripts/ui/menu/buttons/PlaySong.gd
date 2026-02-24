@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\PlaySong.gd
+# Funcion: Implementa play song dentro de logica interna del proyecto.
 extends Button
 
 var has_auto_previewed:bool = false

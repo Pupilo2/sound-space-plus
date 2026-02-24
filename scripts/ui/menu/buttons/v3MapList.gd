@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\v3MapList.gd
+# Funcion: Implementa v3 map list dentro de logica interna del proyecto.
 extends VBoxContainer
 
 signal search_updated

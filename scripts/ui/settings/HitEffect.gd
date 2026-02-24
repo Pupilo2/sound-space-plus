@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\HitEffect.gd
+# Funcion: Implementa hit effect dentro de logica interna del proyecto.
 extends MenuButton
 
 var effects:Array = []

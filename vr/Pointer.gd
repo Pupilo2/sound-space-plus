@@ -1,3 +1,5 @@
+# Doc: vr\Pointer.gd
+# Funcion: Implementa pointer dentro de interaccion y flujo para modo VR.
 extends RayCast
 
 func update_beam():

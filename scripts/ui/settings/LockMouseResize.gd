@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\LockMouseResize.gd
+# Funcion: Implementa lock mouse resize dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

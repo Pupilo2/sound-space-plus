@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\menu2.gd
+# Funcion: Implementa menu2 dentro de logica interna del proyecto.
 extends Node
 
 func idle_status():

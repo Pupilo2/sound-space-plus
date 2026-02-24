@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\TargetFPS.gd
+# Funcion: Implementa target fps dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

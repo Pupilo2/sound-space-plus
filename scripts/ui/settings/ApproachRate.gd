@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ApproachRate.gd
+# Funcion: Implementa approach rate dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

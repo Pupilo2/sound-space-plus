@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\NameSort.gd
+# Funcion: Implementa name sort dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

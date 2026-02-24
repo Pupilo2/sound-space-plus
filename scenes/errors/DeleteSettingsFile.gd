@@ -1,3 +1,5 @@
+# Doc: scenes\errors\DeleteSettingsFile.gd
+# Funcion: Implementa delete settings file dentro de logica interna del proyecto.
 extends Button
 
 var confirming = false

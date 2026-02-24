@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ColorPresets.gd
+# Funcion: Implementa color presets dentro de logica interna del proyecto.
 extends MenuButton
 
 var presets = [

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\GridParallax.gd
+# Funcion: Implementa grid parallax dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

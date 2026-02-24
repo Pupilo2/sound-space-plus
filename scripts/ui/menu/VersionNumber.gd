@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\VersionNumber.gd
+# Funcion: Implementa version number dentro de logica interna del proyecto.
 extends Label
 
 func _ready():

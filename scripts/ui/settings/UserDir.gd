@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\UserDir.gd
+# Funcion: Implementa user dir dentro de logica interna del proyecto.
 extends Button
 
 func _pressed():

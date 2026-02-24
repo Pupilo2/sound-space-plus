@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\HitFOVModes.gd
+# Funcion: Implementa hit fovmodes dentro de logica interna del proyecto.
 extends MenuButton
 
 var presets = [

@@ -1,3 +1,5 @@
+# Doc: scripts\loaders\songload.gd
+# Funcion: Implementa songload dentro de logica interna del proyecto.
 extends Node
 
 var leaving:bool = false

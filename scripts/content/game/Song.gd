@@ -1,3 +1,5 @@
+# Doc: scripts\content\game\Song.gd
+# Funcion: Implementa song dentro de logica interna del proyecto.
 extends Resource
 class_name Song
 

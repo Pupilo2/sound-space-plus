@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\FadeLength.gd
+# Funcion: Implementa fade length dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

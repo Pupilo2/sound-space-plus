@@ -1,3 +1,5 @@
+# Doc: assets\worlds\general\space.gd
+# Funcion: Implementa space dentro de logica interna del proyecto.
 extends Spatial
 
 

@@ -1,3 +1,5 @@
+# Doc: scripts\game\configDisp.gd
+# Funcion: Implementa config disp dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

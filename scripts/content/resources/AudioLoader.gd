@@ -1,3 +1,5 @@
+# Doc: scripts\content\resources\AudioLoader.gd
+# Funcion: Implementa audio loader dentro de logica interna del proyecto.
 #GDScriptAudioImport v0.1
 
 #MIT License

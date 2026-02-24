@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SpawnDist.gd
+# Funcion: Implementa spawn dist dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

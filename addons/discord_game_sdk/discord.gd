@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\discord.gd
+# Funcion: Implementa discord dentro de logica interna del proyecto.
 extends Node
 
 enum Result {

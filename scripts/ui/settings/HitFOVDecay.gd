@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\HitFOVDecay.gd
+# Funcion: Implementa hit fovdecay dentro de logica interna del proyecto.
 extends SpinBox
 
 func upd():

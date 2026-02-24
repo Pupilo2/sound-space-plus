@@ -1,3 +1,5 @@
+# Doc: scripts\game\MobileButtons.gd
+# Funcion: Implementa mobile buttons dentro de logica interna del proyecto.
 extends Control
 
 func _on_Pause_pressed():

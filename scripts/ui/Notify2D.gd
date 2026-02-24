@@ -1,3 +1,5 @@
+# Doc: scripts\ui\Notify2D.gd
+# Funcion: Implementa notify2 d dentro de logica interna del proyecto.
 extends VBoxContainer
 class_name Notify2D
 

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\cmgr\CMgrExit.gd
+# Funcion: Implementa cmgr exit dentro de logica interna del proyecto.
 extends Button
 
 var has_been_pressed:bool = false

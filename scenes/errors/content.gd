@@ -1,3 +1,5 @@
+# Doc: scenes\errors\content.gd
+# Funcion: Implementa content dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

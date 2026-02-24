@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\Nearsight.gd
+# Funcion: Implementa nearsight dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

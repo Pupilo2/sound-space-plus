@@ -1,3 +1,5 @@
+# Doc: scripts\game\SFXManager.gd
+# Funcion: Implementa sfxmanager dentro de logica interna del proyecto.
 extends Node
 
 const MAX_NODES = 48

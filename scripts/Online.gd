@@ -1,3 +1,5 @@
+# Doc: scripts\Online.gd
+# Funcion: Implementa online dentro de estado global e inicializacion principal del juego.
 extends Node
 
 # https://cdn.rhythia.net/index.json

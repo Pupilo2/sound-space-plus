@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\StartOffset.gd
+# Funcion: Implementa start offset dentro de logica interna del proyecto.
 extends HSlider
 
 func get_seconds_from_ms(ms:float):

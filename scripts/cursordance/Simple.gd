@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Simple.gd
+# Funcion: Implementa simple dentro de logica interna del proyecto.
 extends DanceMover
 class_name SimpleDanceMover
 

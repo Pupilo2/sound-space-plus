@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Dance.gd
+# Funcion: Implementa dance dentro de logica interna del proyecto.
 extends Node
 
 func Linear(t:float) -> float:

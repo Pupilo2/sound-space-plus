@@ -1,3 +1,5 @@
+# Doc: scripts\game\Camera.gd
+# Funcion: Implementa camera dentro de logica interna del proyecto.
 extends Camera
 
 var cursor_offset = Vector3(1,-1,0)

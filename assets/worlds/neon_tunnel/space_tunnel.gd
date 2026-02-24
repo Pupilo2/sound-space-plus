@@ -1,3 +1,5 @@
+# Doc: assets\worlds\neon_tunnel\space_tunnel.gd
+# Funcion: Implementa space tunnel dentro de logica interna del proyecto.
 extends Spatial
 
 export(SpatialMaterial) var mat

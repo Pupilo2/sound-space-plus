@@ -1,3 +1,5 @@
+# Doc: scripts\ui\avatarEditor\AccessoryList.gd
+# Funcion: Implementa accessory list dentro de logica interna del proyecto.
 extends ItemList
 
 

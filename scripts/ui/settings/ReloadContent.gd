@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\ReloadContent.gd
+# Funcion: Implementa reload content dentro de logica interna del proyecto.
 extends Button
 
 var has_been_pressed:bool = false

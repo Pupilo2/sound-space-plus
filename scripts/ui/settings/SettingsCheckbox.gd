@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SettingsCheckbox.gd
+# Funcion: Implementa settings checkbox dentro de logica interna del proyecto.
 extends CheckBox
 
 export(String) var target

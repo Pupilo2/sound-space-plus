@@ -1,3 +1,5 @@
+# Doc: addons\discord_game_sdk\example\lobby\game_state.gd
+# Funcion: Implementa game state dentro de logica interna del proyecto.
 extends Resource
 class_name GameState
 

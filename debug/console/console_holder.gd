@@ -1,3 +1,5 @@
+# Doc: debug\console\console_holder.gd
+# Funcion: Implementa console holder dentro de logica interna del proyecto.
 extends Node
 
 onready var rootg = get_tree().root

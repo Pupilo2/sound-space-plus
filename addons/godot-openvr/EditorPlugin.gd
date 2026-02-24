@@ -1,3 +1,5 @@
+# Doc: addons\godot-openvr\EditorPlugin.gd
+# Funcion: Implementa editor plugin dentro de logica interna del proyecto.
 tool
 extends EditorPlugin
 

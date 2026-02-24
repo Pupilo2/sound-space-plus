@@ -1,3 +1,5 @@
+# Doc: assets\worlds\cubic\cubic_cube.gd
+# Funcion: Implementa cubic cube dentro de logica interna del proyecto.
 extends MeshInstance
 
 var rot:Vector3 = Vector3()

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\ConfirmationPrompt2D.gd
+# Funcion: Implementa confirmation prompt2 d dentro de logica interna del proyecto.
 extends ColorRect
 class_name ConfirmationPrompt2D
 

@@ -1,3 +1,5 @@
+# Doc: scenes\errors\settings.gd
+# Funcion: Implementa settings dentro de logica interna del proyecto.
 extends ColorRect
 
 func _ready():

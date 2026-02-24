@@ -1,3 +1,5 @@
+# Doc: scripts\cursordance\Bouncy.gd
+# Funcion: Implementa bouncy dentro de logica interna del proyecto.
 extends DanceMover
 class_name BouncyDanceMover
 

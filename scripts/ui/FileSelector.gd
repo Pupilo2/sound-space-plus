@@ -1,3 +1,5 @@
+# Doc: scripts\ui\FileSelector.gd
+# Funcion: Implementa file selector dentro de logica interna del proyecto.
 extends ColorRect
 class_name FileSelector2D
 

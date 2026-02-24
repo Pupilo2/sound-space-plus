@@ -1,3 +1,5 @@
+# Doc: scripts\content\resources\ObjParse.gd
+# Funcion: Implementa obj parse dentro de logica interna del proyecto.
 class_name ObjParse
 
 const debug:=false

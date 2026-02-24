@@ -1,3 +1,5 @@
+# Doc: assets\worlds\tri_tunnel\tunnel.gd
+# Funcion: Implementa tunnel dentro de logica interna del proyecto.
 extends Spatial
 
 var rate:float = Rhythia.get("approach_rate") / 6

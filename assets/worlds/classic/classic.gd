@@ -1,3 +1,5 @@
+# Doc: assets\worlds\classic\classic.gd
+# Funcion: Implementa classic dentro de logica interna del proyecto.
 extends Spatial
 
 var colors:Array = Rhythia.selected_colorset.colors

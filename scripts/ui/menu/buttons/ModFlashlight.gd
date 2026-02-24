@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\ModFlashlight.gd
+# Funcion: Implementa mod flashlight dentro de logica interna del proyecto.
 extends CheckBox
 
 func _process(_d):

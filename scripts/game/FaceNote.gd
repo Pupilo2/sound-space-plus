@@ -1,3 +1,5 @@
+# Doc: scripts\game\FaceNote.gd
+# Funcion: Implementa face note dentro de logica interna del proyecto.
 extends MeshInstance
 
 export var look_multi = 1.0

@@ -1,3 +1,5 @@
+# Doc: scripts\ui\menu\buttons\DifficultySort.gd
+# Funcion: Implementa difficulty sort dentro de logica interna del proyecto.
 extends CheckBox
 
 func _pressed():

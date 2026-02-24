@@ -1,3 +1,5 @@
+# Doc: scripts\ui\avatarEditor\AddAccessory.gd
+# Funcion: Implementa add accessory dentro de logica interna del proyecto.
 extends Button
 
 func _pressed():

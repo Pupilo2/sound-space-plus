@@ -1,3 +1,5 @@
+# Doc: scripts\ui\settings\SettingsNumberBox.gd
+# Funcion: Implementa settings number box dentro de logica interna del proyecto.
 extends SpinBox
 
 export(String) var target
